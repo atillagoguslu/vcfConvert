@@ -1,0 +1,131 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Bell;Ada;;;
+FN:Ada Bell
+ORG:Example Consulting
+TEL;type=CELL;type=VOICE;type=pref:+905321112233
+EMAIL:ada.bell@example.com
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Kaya;Mert;;;
+FN:Mert Kaya
+ORG:Northwind Labs
+TEL;type=CELL;type=VOICE;type=pref:+905432226677
+EMAIL:mert.kaya@northwind.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Yıldız;Lina;;;
+FN:Lina Yıldız
+ORG:Pulse Innovations
+TEL;type=CELL;type=VOICE;type=pref:+903125558899
+TEL;type=WORK;type=VOICE:+905051112233
+EMAIL:lina.yildiz@pulse.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Şimşek;Tuna;;;
+FN:Tuna Şimşek
+ORG:Marmara Mobility
+TEL;type=CELL;type=VOICE;type=pref:+905324778901
+EMAIL:tuna.simsek@marmaramob.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Poyraz;Deniz;;;
+FN:Deniz Poyraz
+ORG:Helix Ventures
+TEL;type=WORK;type=VOICE;type=pref:+902164559301
+TEL;type=CELL;type=VOICE:+905335998877
+EMAIL:deniz.poyraz@helix.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Günay;Ece;;;
+FN:Ece Günay
+ORG:Atlas Enerji
+TEL;type=CELL;type=VOICE;type=pref:+905342219944
+EMAIL:ece.gunay@atlasenergy.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Harman;Cemil;;;
+FN:Cemil Harman
+ORG:Vantage Partners
+TEL;type=WORK;type=VOICE;type=pref:+902122223311
+TEL;type=CELL;type=VOICE:+905348889900
+EMAIL:cemil.harman@vantage.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Koç;Aylin;;;
+FN:Aylin Koç
+ORG:Novus Textile
+TEL;type=CELL;type=VOICE;type=pref:+905354112233
+EMAIL:aylin.koc@novustextile.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Yiğit;Barış;;;
+FN:Barış Yiğit
+ORG:Elysian Media
+TEL;type=WORK;type=VOICE;type=pref:+902124880099
+TEL;type=CELL;type=VOICE:+905335721095
+EMAIL:baris.yigit@elysian.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Solmaz;Selin;;;
+FN:Selin Solmaz
+ORG:Sapphire Finance
+TEL;type=CELL;type=VOICE;type=pref:+905333445566
+EMAIL:selin.solmaz@sapphire.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Can;Faruk;;;
+FN:Faruk Can
+ORG:Northwind Labs
+TEL;type=WORK;type=VOICE;type=pref:+902167778899
+EMAIL:faruk.can@northwind.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Ozan;Derya;;;
+FN:Derya Ozan
+ORG:Pulse Innovations
+TEL;type=CELL;type=VOICE;type=pref:+905052990011
+EMAIL:derya.ozan@pulse.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Acar;Eylül;;;
+FN:Eylül Acar
+ORG:Pulse Innovations
+TEL;type=WORK;type=VOICE;type=pref:+902126554433
+TEL;type=CELL;type=VOICE:+905347665544
+EMAIL:eylul.acar@pulse.example
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Example Corp//VCF Generator 1.0//EN
+N:Eren;Ömer;;;
+FN:Ömer Eren
+ORG:Example Consulting
+TEL;type=CELL;type=VOICE;type=pref:+905321778899
+EMAIL:omer.eren@example.com
+END:VCARD
