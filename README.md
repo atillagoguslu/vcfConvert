@@ -1,4 +1,4 @@
-# vCard to CSV Converter
+# vCard to CSV Converter (Turkish phones only)
 
 Lightweight Python tool that scans the current directory for a `.vcf` file, normalizes Turkish phone numbers, and exports a CSV that is easier to open in spreadsheets.
 
